@@ -1,5 +1,8 @@
 ### Olá, que bom que chegou aqui 👋
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+</div>  
 <!--
 **lucianofalmeida/lucianofalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
