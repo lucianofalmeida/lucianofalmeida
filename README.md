@@ -2,6 +2,7 @@
 
 <div align="left">
   <img src="python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="vscode-original.svg" height="40" width="52" alt="python logo"  />
 </div>  
 <!--
 **lucianofalmeida/lucianofalmeida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
