@@ -12,7 +12,7 @@
     <img src="linkedin_originals.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="bralmeidalu@gmail.com" target="_blank">
-    <img src="gmail_originals.png" width="52" height="40" alt="gmail logo"  />
+    <img src="gmail_originals.png" width="52" height="52" alt="gmail logo"  />
   </a>
 </div>
 <!--
